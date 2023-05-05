@@ -1,0 +1,38 @@
+body {
+    background-color:#F8F7EF;
+}
+
+.retangulo {
+    position: absolute;
+    width: 1280px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    text-align: center;
+    background-color:#BBB36B;
+}
+
+.logo {
+    border-radius: 50%;
+}
+
+.exit {
+    text-align: right;
+}
+
+.joao {
+    border-radius: 50%;
+}
+
+figure {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.p {
+    text-align: center;
+}
